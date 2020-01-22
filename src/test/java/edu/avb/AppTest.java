@@ -10,7 +10,7 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 /*
-The test demonstrate an approach to testing app with http client.
+The test demonstrates an approach to testing app with http client.
 Only one test because next the same, but long term coding require.
  */
 
